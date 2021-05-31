@@ -15,13 +15,13 @@ Evidence-based Medicine](https://www.researchgate.net/publication/351956430_Usin
 **If you are using this dataset please cite the following paper:** 
 
 ```
-Samiullah, M. Y. Khan and M. S. Nizami, "Using Patient Descriptions of 20 Most Common Diseases in Text Classification for 
+S. Shaikh, M. Y. Khan and M. S. Nizami, "Using Patient Descriptions of 20 Most Common Diseases in Text Classification for 
 Evidence-based Medicine" 2021 1st Mohammad Ali Jinnah University International Conference on Computing (MAJICC), 2021.
 ```
 
 ```
 @INPROCEEDINGS{7889534,  
-  author={Samiullah and Khan, Muhammad Yaseen and Nizami, Muhammad Suffian},  
+  author={Shaikh, Samiullah and Khan, Muhammad Yaseen and Nizami, Muhammad Suffian},  
   booktitle={2021 1st Mohammad Ali Jinnah University International Conference on Computing (MAJICC)},   
   title={Using Patient Descriptions of 20 Most Common Diseases in Text Classification for Evidence-based Medicine},
   year={2021}, 
