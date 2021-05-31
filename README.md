@@ -1,4 +1,4 @@
-# ebm-patitent-descriptions-dataset
+# EBM-patitent-descriptions-dataset
 Dataset of patient descriptions for Evidence-based Medicine
 
 ## [PI-PD-20](https://github.com/MuhammadYaseenKhan/ebm-patitent-descriptions-dataset/tree/main/PI-PD-20): PatientInfo-Patient Decriptions-20 Most Common Diseases
